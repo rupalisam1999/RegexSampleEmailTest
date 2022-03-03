@@ -1,0 +1,16 @@
+C:\Users\hp\source\RegexforEmail\bin\Debug\net5.0\RegexforEmail.exe
+C:\Users\hp\source\RegexforEmail\bin\Debug\net5.0\RegexforEmail.deps.json
+C:\Users\hp\source\RegexforEmail\bin\Debug\net5.0\RegexforEmail.runtimeconfig.json
+C:\Users\hp\source\RegexforEmail\bin\Debug\net5.0\RegexforEmail.runtimeconfig.dev.json
+C:\Users\hp\source\RegexforEmail\bin\Debug\net5.0\RegexforEmail.dll
+C:\Users\hp\source\RegexforEmail\bin\Debug\net5.0\ref\RegexforEmail.dll
+C:\Users\hp\source\RegexforEmail\bin\Debug\net5.0\RegexforEmail.pdb
+C:\Users\hp\source\RegexforEmail\obj\Debug\net5.0\RegexforEmail.csproj.AssemblyReference.cache
+C:\Users\hp\source\RegexforEmail\obj\Debug\net5.0\RegexforEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\RegexforEmail\obj\Debug\net5.0\RegexforEmail.AssemblyInfoInputs.cache
+C:\Users\hp\source\RegexforEmail\obj\Debug\net5.0\RegexforEmail.AssemblyInfo.cs
+C:\Users\hp\source\RegexforEmail\obj\Debug\net5.0\RegexforEmail.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\RegexforEmail\obj\Debug\net5.0\RegexforEmail.dll
+C:\Users\hp\source\RegexforEmail\obj\Debug\net5.0\ref\RegexforEmail.dll
+C:\Users\hp\source\RegexforEmail\obj\Debug\net5.0\RegexforEmail.pdb
+C:\Users\hp\source\RegexforEmail\obj\Debug\net5.0\RegexforEmail.genruntimeconfig.cache
